@@ -67,8 +67,3 @@ And after that if you want to continue shopping just click on continue shopping 
 <img src="https://i.imgur.com/F9ITZQj.png">
 
 
-## Contributers
-
-- Sahil Shekh-<a href="https://github.com/sahilshekh">@sahilshekh</a>
-- Vaibhav Upasani-<a href="https://github.com/upasani">@Upasani</a>
-- Nikhil Singh-<a href="https://github.com/nikhilsingh38">@nikhilsingh38</a> 
